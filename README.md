@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PloSt
 - 👀 I’m interested in R Data Analysis for Metabolomics and Proteomics Data
-- 🌱 I’m currently learning R, Git, 
+- 🌱 I’m currently learning R, LaTeX, Matlab, Python, Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
